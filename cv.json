@@ -1,0 +1,104 @@
+{
+    "name": "Musharaf Ali",
+    "location": "Bettiah, Bihar 845438",
+    "contact": {
+      "phone": "7301943735",
+      "email": "alimusharaf725@gmail.com",
+      "linkedin": "https://linkedin.com/in/musharafali72b",
+      "github": "https://github.com/Musharaf725"
+    },
+    "training": {
+      "organization": "GeeksforGeeks",
+      "period": "April 2023 - June 2023",
+      "course": "Data Structure and Algorithm",
+      "details": [
+        "The course DSA Self-Paced from GeeksForGeeks provided the opportunity to learn new technology from home.",
+        "This course helped in performing well in technical interviews.",
+        "Going through all topics thoroughly made me confident enough to crack coding tests and technical interviews."
+      ]
+    },
+    "projects": [
+      {
+        "title": "Fitness Calculator",
+        "technology": "Python",
+        "period": "June 2022 - July 2022",
+        "description": "A project made in Python with a user-friendly interface allowing users to enter values to calculate fitness."
+      },
+      {
+        "title": "Calendar Events",
+        "technology": "Java",
+        "period": "Feb 2023 - March 2023",
+        "description": "A Java project creating an event calendar where users can create and view events for specific dates and times using a command-line interface."
+      },
+      {
+        "title": "Course List App",
+        "technology": "Kotlin",
+        "period": "March 2024 - April 2024",
+        "description": "An Android app developed using Kotlin, providing a dynamic platform with a user-friendly interface for accessing educational courses."
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Data Structure and Algorithm (Self-Paced)",
+        "provider": "GeeksforGeeks",
+        "date": "June 2023",
+        "link": "https://media.geeksforgeeks.org/courses/certificates/984d45221ca4cb4fcd5e341465aa329a.pdf"
+      },
+      {
+        "title": "CompTIA Linux+ XKO-005",
+        "provider": "CYBRARY",
+        "date": "November 2023",
+        "link": "https://app.cybrary.it/courses/api/certificate/CC-8d7453d6-9c83-4b38-a1ae-9fa39d4a7505/view"
+      },
+      {
+        "title": "Advanced React",
+        "provider": "Coursera",
+        "date": "November 2023",
+        "link": "https://coursera.org/verify/NWR8RASLJG7S"
+      },
+      {
+        "title": "IBM Cloud Essential",
+        "provider": "edX",
+        "date": "December 2023",
+        "link": "https://courses.edx.org/certificates/9dedb88e5a154fa69862323e8a6e5a07"
+      }
+    ],
+    "technical_skills": {
+      "languages": ["C++", "Java", "HTML", "CSS", "JavaScript", "Kotlin"],
+      "technologies_frameworks": ["Android Development", "Kali Linux", "WireShark", "SQL Queries", "Git", "GitHub"],
+      "skills": ["Data Structures and Algorithms", "Problem-Solving", "Responsive App Designing"]
+    },
+    "achievements": [
+      {
+        "title": "4-star rating in Data Structure",
+        "date": "November 2023"
+      },
+      {
+        "title": "Secured 644th rank on GFG by solving 300+ programming problems",
+        "date": "September 2023"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lovely Professional University",
+        "degree": "Computer Science and Engineering",
+        "location": "Jalandhar, Punjab",
+        "period": "2021 – 2025"
+      },
+      {
+        "institution": "GM College",
+        "degree": "12th with Science",
+        "location": "Bettiah, Bihar",
+        "percentage": "81.6%",
+        "period": "2019 – 2020"
+      },
+      {
+        "institution": "National Public Higher Secondary School",
+        "degree": "10th with Science",
+        "location": "Bettiah, Bihar",
+        "percentage": "78.6%",
+        "period": "2016 – 2017"
+      }
+    ]
+  }
+  
